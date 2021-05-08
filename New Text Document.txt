@@ -1,0 +1,2043 @@
+load labels
+lab1 = {'Land','grass','water','path','buildings'};
+labels{1} = lab1;
+save labels labels
+load labels
+lab3 = {'Land','ships','water','path','buildings'};
+labels{3} = lab3;
+save labels labels
+
+
+load labels
+lab21 = {'Land','sand','water','grass'};
+labels{21} = lab21;
+save labels labels
+
+load labels
+lab22 = {'Land','sand','water','grass'};
+labels{22} = lab22;
+save labels labels
+
+load labels
+lab23 = {'Land','sand','water','grass'};
+labels{23} = lab23;
+save labels labels
+
+
+load labels
+lab24 = {'Land','sand','water','grass','path'};
+labels{24} = lab24;
+save labels labels
+
+load labels
+lab25 = {'Land','sand','water','grass','path'};
+labels{25} = lab25;
+save labels labels
+
+load labels
+lab26 = {'Land','water'};
+labels{26} = lab26;
+save labels labels
+
+load labels
+lab27 = {'Land','sand','water','grass','path','buildings'};
+labels{27} = lab27;
+save labels labels
+
+load labels
+lab28 = {'Land','sand','water','grass','path','buildings'};
+labels{28} = lab28;
+save labels labels
+
+
+load labels
+lab29 = {'Land','water','grass','path','buildings'};
+labels{29} = lab29;
+save labels labels
+
+load labels
+lab30 = {'Land','water','grass','path','buildings'};
+labels{30} = lab30;
+save labels labels
+
+load labels
+lab31 = {'Land','water','grass','path','buildings'};
+labels{31} = lab31;
+save labels labels
+
+load labels
+lab32 = {'Land','water','grass','path','buildings'};
+labels{32} = lab32;
+save labels labels
+
+load labels
+lab33 = {'Land','sand','water','grass','path','buildings'};
+labels{33} = lab33;
+save labels labels
+
+load labels
+lab34 = {'Land','sand','water','grass','path','buildings'};
+labels{34} = lab34;
+save labels labels
+
+load labels
+lab35 = {'Land','sand','water','grass','path','buildings'};
+labels{35} = lab35;
+save labels labels
+
+load labels
+lab36 = {'Land','sand','grass','path','buildings'};
+labels{36} = lab36;
+save labels labels
+
+load labels
+lab38 = {'Land','sand','water','grass','path','buildings'};
+labels{38} = lab38;
+save labels labels
+
+load labels
+lab39 = {'Land','sand','grass','path','buildings'};
+labels{39} = lab39;
+save labels labels
+
+load labels
+lab40 = {'Land','sand','grass','path','buildings'};
+labels{40} = lab40;
+save labels labels
+
+load labels
+lab41 = {'Land','sand','grass','path','buildings'};
+labels{41} = lab41;
+save labels labels
+
+load labels
+lab42 = {'Land','sand','water','grass','path','buildings'};
+labels{42} = lab42;
+save labels labels
+
+load labels
+lab43 = {'Land','sand','grass','path','buildings'};
+labels{43} = lab43;
+save labels labels
+
+load labels
+lab44 = {'Land','sand','grass','path','buildings'};
+labels{44} = lab44;
+save labels labels
+
+load labels
+lab45 = {'Land','sand','water','grass','path','buildings'};
+labels{45} = lab45;
+save labels labels
+
+load labels
+lab46 = {'Land','sand','water','grass'};
+labels{46} = lab46;
+save labels labels
+
+load labels
+lab47 = {'Land','sand','grass','path','buildings'};
+labels{47} = lab47;
+save labels labels
+
+load labels
+lab48 = {'Land','sand','grass','path','buildings'};
+labels{48} = lab48;
+save labels labels
+
+load labels
+lab49 = {'Land','sand','grass','path','buildings'};
+labels{49} = lab49;
+save labels labels
+
+load labels
+lab50 = {'Land','sand','grass','path','buildings'};
+labels{50} = lab50;
+save labels labels
+
+load labels
+lab51 = {'Land','sand','grass','path','buildings'};
+labels{51} = lab51;
+save labels labels
+
+load labels
+lab52 = {'Land','sand','grass','path','buildings'};
+labels{52} = lab52;
+save labels labels
+
+load labels
+lab53 = {'Land','sand','grass','path','buildings'};
+labels{53} = lab53;
+save labels labels
+
+load labels
+lab54 = {'Land','sand','water','grass','path','buildings'};
+labels{54} = lab54;
+save labels labels
+
+load labels
+lab55 = {'Land','sand','grass','path','buildings'};
+labels{55} = lab55;
+save labels labels
+
+load labels
+lab56 = {'Land','sand','grass','path','buildings'};
+labels{56} = lab56;
+save labels labels
+
+load labels
+lab57 = {'Land','sand','grass','path','buildings'};
+labels{57} = lab57;
+save labels labels
+
+load labels
+lab58 = {'Land','sand','grass','path','buildings'};
+labels{58} = lab58;
+save labels labels
+
+load labels
+lab59 = {'Land','sand','grass','path','buildings'};
+labels{59} = lab59;
+save labels labels
+
+load labels
+lab60 = {'Land','sand','grass','path','buildings'};
+labels{60} = lab60;
+save labels labels
+
+load labels
+lab61 = {'Land','sand','grass','path','buildings'};
+labels{61} = lab61;
+save labels labels
+
+load labels
+lab62 = {'Land','water','sand','grass','path','buildings'};
+labels{62} = lab62;
+save labels labels
+
+
+load labels
+lab63 = {'Land','sand','grass','path','buildings'};
+labels{63} = lab63;
+save labels labels
+
+load labels
+lab64 = {'Land','sand','grass','path','buildings'};
+labels{64} = lab64;
+save labels labels
+
+load labels
+lab65 = {'Land','sand','grass','path','buildings'};
+labels{65} = lab65;
+save labels labels
+
+load labels
+lab66 = {'Land','sand','grass'};
+labels{66} = lab66;
+save labels labels
+
+load labels
+lab67 = {'Land','sand','water','grass','path','buildings'};
+labels{67} = lab67;
+save labels labels
+
+load labels
+lab68 = {'Land','sand','grass','path','buildings'};
+labels{68} = lab68;
+save labels labels
+
+
+load labels
+lab69 = {'Land','water','sand','grass','path','buildings'};
+labels{69} = lab69;
+save labels labels
+
+
+load labels
+lab70 = {'Land','sand','grass','path','buildings'};
+labels{70} = lab70;
+save labels labels
+
+load labels
+lab71 = {'Land','sand','water','grass','path','buildings'};
+labels{71} = lab71;
+save labels labels
+
+load labels
+lab72 = {'Land','sand','water','grass','path','buildings'};
+labels{72} = lab72;
+save labels labels
+
+load labels
+lab73 = {'Land','sand','water','grass','path','buildings'};
+labels{73} = lab73;
+save labels labels
+
+load labels
+lab74 = {'Land','sand','grass','path','buildings'};
+labels{74} = lab74;
+save labels labels
+
+load labels
+lab75 = {'Land','sand','grass','path','buildings'};
+labels{75} = lab75;
+save labels labels
+
+load labels
+lab76 = {'Land','sand','water','grass','path','buildings'};
+labels{76} = lab76;
+save labels labels
+
+load labels
+lab77 = {'Land','sand','water','grass','path','buildings'};
+labels{77} = lab77;
+save labels labels
+
+load labels
+lab78 = {'Land','sand','grass','path','buildings'};
+labels{78} = lab78;
+save labels labels
+
+
+load labels
+lab79 = {'Land','sand','water','grass','path','buildings'};
+labels{79} = lab79;
+save labels labels
+
+load labels
+lab80 = {'Land','sand','grass','path','buildings'};
+labels{80} = lab80;
+save labels labels
+
+load labels
+lab81 = {'Land','sand','grass','path','buildings'};
+labels{81} = lab81;
+save labels labels
+
+load labels
+lab82 = {'Land','sand','grass','path','buildings'};
+labels{82} = lab82;
+save labels labels
+
+load labels
+lab83 = {'Land','sand','grass','path','buildings'};
+labels{83} = lab83;
+save labels labels
+
+load labels
+lab84 = {'Land','sand','grass','path','buildings'};
+labels{84} = lab84;
+save labels labels
+
+load labels
+lab85 = {'Land','sand','water','grass','path','buildings'};
+labels{85} = lab85;
+save labels labels
+
+load labels
+lab86 = {'Land','sand','water','grass','path','buildings'};
+labels{86} = lab86;
+save labels labels
+
+load labels
+lab87 = {'Land','sand','water','grass','path','buildings'};
+labels{87} = lab87;
+save labels labels
+
+load labels
+lab88 = {'Land','sand','water','grass','path','buildings'};
+labels{88} = lab88;
+save labels labels
+
+load labels
+lab89 = {'Land','sand','water','grass','path','buildings'};
+labels{89} = lab89;
+save labels labels
+
+load labels
+lab90 = {'Land','sand','grass','path','buildings'};
+labels{90} = lab90;
+save labels labels
+
+load labels
+lab91 = {'Land','sand','water','grass','path','buildings'};
+labels{91} = lab91;
+save labels labels
+
+load labels
+lab92 = {'Land','sand','water','grass','path','buildings'};
+labels{92} = lab92;
+save labels labels
+
+load labels
+lab93 = {'Land','sand','water','grass','path','buildings'};
+labels{93} = lab93;
+save labels labels
+
+load labels
+lab94 = {'Land','sand','grass','path','buildings'};
+labels{94} = lab94;
+save labels labels
+
+load labels
+lab95 = {'Land','sand','water','grass','path','buildings'};
+labels{95} = lab95;
+save labels labels
+
+load labels
+lab96 = {'Land','sand','water','grass','path','buildings'};
+labels{96} = lab96;
+save labels labels
+
+load labels
+lab97 = {'Land','sand','water','grass','path','buildings'};
+labels{97} = lab97;
+save labels labels
+
+
+load labels
+lab98 = {'Land','sand','water','grass','path','buildings'};
+labels{98} = lab98;
+save labels labels
+
+load labels
+lab99 = {'Land','sand','water','grass','path','buildings'};
+labels{99} = lab99;
+save labels labels
+
+load labels
+lab100 = {'Land','sand','water','grass','path','buildings'};
+labels{100} = lab100;
+save labels labels
+
+load labels
+lab101 = {'Land','sand','grass','path','buildings'};
+labels{101} = lab101;
+save labels labels
+
+load labels
+lab102 = {'Land','sand','grass','path','buildings'};
+labels{102} = lab102;
+save labels labels
+
+load labels
+lab103 = {'Land','sand','grass','path','buildings'};
+labels{103} = lab103;
+save labels labels
+
+load labels
+lab104 = {'Land','sand','water','grass','path','buildings'};
+labels{104} = lab104;
+save labels labels
+
+load labels
+lab105 = {'Land','sand','grass','path','buildings'};
+labels{105} = lab105;
+save labels labels
+
+load labels
+lab106 = {'Land','sand','grass','path','buildings'};
+labels{106} = lab106;
+save labels labels
+
+load labels
+lab107 = {'Land','sand','grass','path','buildings'};
+labels{107} = lab107;
+save labels labels
+
+load labels
+lab108 = {'Land','sand','water','grass','path','buildings'};
+labels{108} = lab108;
+save labels labels
+
+load labels
+lab109 = {'Land','sand','water','grass','path','buildings'};
+labels{109} = lab109;
+save labels labels
+
+load labels
+lab110 = {'Land','sand','water','grass','path','buildings'};
+labels{110} = lab110;
+save labels labels
+
+load labels
+lab111 = {'Land','sand','water','grass','path','buildings'};
+labels{111} = lab111;
+save labels labels
+
+load labels
+lab112 = {'Land','sand','water','grass','path','buildings'};
+labels{112} = lab112;
+save labels labels
+
+load labels
+lab113 = {'Land','sand','water','grass','path','buildings'};
+labels{113} = lab113;
+save labels labels
+
+load labels
+lab114 = {'Land','sand','water','grass','path','buildings'};
+labels{114} = lab114;
+save labels labels
+
+load labels
+lab115 = {'Land','sand','grass','path','buildings'};
+labels{115} = lab115;
+save labels labels
+
+load labels
+lab116 = {'Land','sand','grass','path','buildings'};
+labels{116} = lab116;
+save labels labels
+
+
+load labels
+lab117 = {'Land','sand','grass','path','buildings'};
+labels{117} = lab117;
+save labels labels
+
+load labels
+lab118 = {'Land','sand','water','grass','path','buildings'};
+labels{118} = lab118;
+save labels labels
+
+load labels
+lab119 = {'Land','sand','grass','path','buildings'};
+labels{119} = lab119;
+save labels labels
+
+load labels
+lab120 = {'Land','sand','water','grass','path','buildings'};
+labels{120} = lab120;
+save labels labels
+
+load labels
+lab121 = {'Land','sand','water','grass','path','buildings'};
+labels{121} = lab121;
+save labels labels
+
+load labels
+lab122 = {'Land','sand','water','grass','path','buildings'};
+labels{122} = lab122;
+save labels labels
+
+load labels
+lab123 = {'Land','sand','water','grass','path','buildings'};
+labels{123} = lab123;
+save labels labels
+
+load labels
+lab124 = {'Land','sand','water','grass','path','buildings'};
+labels{124} = lab124;
+save labels labels
+
+load labels
+lab125 = {'Land','sand','water','grass','path','buildings'};
+labels{125} = lab125;
+save labels labels
+
+load labels
+lab126 = {'Land','sand','water','grass','path','buildings'};
+labels{126} = lab126;
+save labels labels
+
+load labels
+lab127 = {'Land','sand','water','grass','path','buildings'};
+labels{127} = lab127;
+save labels labels
+
+load labels
+lab128 = {'Land','sand','water','grass','path','buildings'};
+labels{128} = lab128;
+save labels labels
+
+load labels
+lab129 = {'Land','sand','water','grass','path','buildings'};
+labels{129} = lab129;
+save labels labels
+
+load labels
+lab130 = {'Land','sand','grass','path','buildings'};
+labels{130} = lab130;
+save labels labels
+
+load labels
+lab131 = {'Land','sand','grass','path','buildings'};
+labels{131} = lab131;
+save labels labels
+
+load labels
+lab132 = {'Land','sand','grass','path','buildings'};
+labels{132} = lab132;
+save labels labels
+
+load labels
+lab133 = {'Land','sand','water','grass','path','buildings'};
+labels{133} = lab133;
+save labels labels
+
+load labels
+lab134 = {'Land','sand','grass','path','buildings'};
+labels{134} = lab134;
+save labels labels
+
+load labels
+lab135 = {'Land','sand','grass','path','buildings'};
+labels{135} = lab135;
+save labels labels
+
+load labels
+lab136 = {'Land','sand','grass','path','buildings'};
+labels{136} = lab136;
+save labels labels
+
+load labels
+lab137 = {'Land','sand','water','grass','path','buildings'};
+labels{137} = lab137;
+save labels labels
+
+load labels
+lab138 = {'Land','sand','water','grass','path','buildings'};
+labels{138} = lab138;
+save labels labels
+
+load labels
+lab139 = {'Land','sand','water','grass','path','buildings'};
+labels{139} = lab139;
+save labels labels
+
+load labels
+lab140 = {'Land','sand','water','grass','path','buildings'};
+labels{140} = lab140;
+save labels labels
+
+load labels
+lab141 = {'Land','water','path','buildings'};
+labels{141} = lab141;
+save labels labels
+
+load labels
+lab142 = {'Land','sand','water','grass','path','buildings'};
+labels{142} = lab142;
+save labels labels
+
+load labels
+lab143 = {'Land','sand','water','grass','path','buildings'};
+labels{143} = lab143;
+save labels labels
+
+load labels
+lab144 = {'Land','sand','water','grass','path','buildings'};
+labels{144} = lab144;
+save labels labels
+
+load labels
+lab145 = {'Land','sand','grass','path','buildings'};
+labels{145} = lab145;
+save labels labels
+
+load labels
+lab146 = {'Land','sand','grass','path','buildings'};
+labels{146} = lab146;
+save labels labels
+
+load labels
+lab147 = {'Land','sand','water','grass','path','buildings'};
+labels{147} = lab147;
+save labels labels
+
+load labels
+lab148 = {'Land','sand','grass','path','buildings'};
+labels{148} = lab148;
+save labels labels
+
+load labels
+lab149 = {'Land','sand','water','grass'};
+labels{149} = lab149;
+save labels labels
+
+load labels
+lab150 = {'Land','sand','grass','path','buildings'};
+labels{150} = lab150;
+save labels labels
+
+load labels
+lab151 = {'Land','sand','water','grass','path','buildings'};
+labels{151} = lab151;
+save labels labels
+
+load labels
+lab152 = {'Land','sand','water','grass','path','buildings'};
+labels{152} = lab152;
+save labels labels
+
+load labels
+lab153 = {'Land','sand','water','grass','path','buildings'};
+labels{153} = lab153;
+save labels labels
+
+load labels
+lab247 = {'Land','sand','water','grass','path','buildings'};
+labels{247} = lab247;
+save labels labels
+load labels
+lab248 = {'Land','sand','water','grass','path','buildings'};
+labels{248} = lab248;
+save labels labels
+
+load labels
+lab249 = {'Land','sand','water','grass','path','buildings'};
+labels{249} = lab249;
+save labels labels
+
+load labels
+lab250 = {'Land','sand','water','grass','path','buildings'};
+labels{250} = lab250;
+save labels labels
+
+load labels
+lab251 = {'Land','sand','water','grass','path','buildings'};
+labels{251} = lab251;
+save labels labels
+
+load labels
+lab252 = {'Land','sand','water','grass','path','buildings'};
+labels{252} = lab252;
+save labels labels
+
+load labels
+lab253 = {'Land','sand','water','grass','path','buildings'};
+labels{253} = lab253;
+save labels labels
+
+load labels
+lab254 = {'Land','sand','water','grass','path','buildings'};
+labels{254} = lab254;
+save labels labels
+
+load labels
+lab255= {'Land','sand','water','grass','path','buildings'};
+labels{255} = lab255;
+save labels labels
+
+load labels
+lab256 = {'Land','sand','water','grass','path','buildings'};
+labels{256} = lab256;
+save labels labels
+
+load labels
+lab257 = {'Land','sand','water','grass','path','buildings'};
+labels{257} = lab257;
+save labels labels
+
+load labels
+lab258 = {'Land','sand','water','grass','path','buildings'};
+labels{258} = lab258;
+save labels labels
+
+load labels
+lab259 = {'Land','sand','water','grass','path','buildings'};
+labels{259} = lab259;
+save labels labels
+
+load labels
+lab260 = {'Land','sand','water','grass','path','buildings'};
+labels{260} = lab260;
+save labels labels
+
+load labels
+lab261 = {'Land','sand','water','grass','path','buildings'};
+labels{261} = lab261;
+save labels labels
+
+load labels
+lab262 = {'Land','sand','water','grass','path','buildings'};
+labels{262} = lab262;
+save labels labels
+
+load labels
+lab263 = {'Land','sand','water','grass','path','buildings'};
+labels{263} = lab263;
+save labels labels
+
+load labels
+lab151 = {'Land','sand','grass'};
+labels{151} = lab151;
+save labels labels
+
+load labels
+lab152 = {'Land','sand','grass'};
+labels{152} = lab152;
+save labels labels
+
+load labels
+lab153 = {'Land','sand','grass'};
+labels{153} = lab153;
+save labels labels
+
+load labels
+lab154 = {'Land','sand','grass'};
+labels{154} = lab154;
+save labels labels
+
+load labels
+lab155 = {'Land','sand','grass'};
+labels{155} = lab155;
+save labels labels
+
+load labels
+lab156 = {'Land','sand','grass'};
+labels{156} = lab156;
+save labels labels
+
+load labels
+lab157 = {'Land','sand','grass'};
+labels{157} = lab157;
+save labels labels
+
+load labels
+lab158 = {'Land','sand','grass'};
+labels{158} = lab158;
+save labels labels
+
+load labels
+lab159 = {'Land','sand','grass'};
+labels{159} = lab159;
+save labels labels
+
+load labels
+lab160 = {'Land','sand','grass'};
+labels{160} = lab160;
+save labels labels
+
+load labels
+lab161 = {'Land','sand','grass'};
+labels{161} = lab161;
+save labels labels
+
+load labels
+lab162 = {'Land','sand','grass'};
+labels{162} = lab162;
+save labels labels
+
+load labels
+lab163 = {'Land','sand','grass'};
+labels{163} = lab163;
+save labels labels
+
+load labels
+lab164 = {'Land','sand','grass'};
+labels{164} = lab164;
+save labels labels
+
+load labels
+lab165 = {'Land','sand','grass'};
+labels{165} = lab165;
+save labels labels
+
+load labels
+lab166 = {'Land','sand','grass'};
+labels{166} = lab166;
+save labels labels
+
+load labels
+lab167 = {'Land','sand','grass'};
+labels{167} = lab167;
+save labels labels
+
+load labels
+lab168 = {'Land','sand','grass'};
+labels{168} = lab168;
+save labels labels
+
+load labels
+lab169 = {'Land','sand','grass'};
+labels{169} = lab169;
+save labels labels
+
+load labels
+lab170 = {'Land','sand','grass'};
+labels{170} = lab170;
+save labels labels
+
+load labels
+lab171 = {'Land','sand','grass'};
+labels{171} = lab171;
+save labels labels
+
+load labels
+lab172 = {'Land','sand','grass'};
+labels{172} = lab172;
+save labels labels
+
+load labels
+lab173 = {'Land','sand','grass'};
+labels{173} = lab173;
+save labels labels
+
+load labels
+lab174 = {'Land','sand','grass'};
+labels{174} = lab174;
+save labels labels
+
+load labels
+lab175 = {'Land','sand','grass'};
+labels{175} = lab175;
+save labels labels
+
+load labels
+lab176 = {'Land','sand','grass'};
+labels{176} = lab176;
+save labels labels
+
+load labels
+lab177 = {'Land','sand','grass'};
+labels{177} = lab177;
+save labels labels
+
+load labels
+lab178 = {'Land','sand','grass'};
+labels{178} = lab178;
+save labels labels
+
+load labels
+lab179 = {'Land','sand','grass'};
+labels{179} = lab179;
+save labels labels
+
+load labels
+lab180 = {'Land','sand','grass'};
+labels{180} = lab180;
+save labels labels
+
+load labels
+lab181 = {'Land','sand','grass'};
+labels{181} = lab181;
+save labels labels
+
+load labels
+lab182 = {'Land','sand','grass'};
+labels{182} = lab182;
+save labels labels
+
+load labels
+lab183 = {'Land','sand','grass'};
+labels{183} = lab183;
+save labels labels
+
+load labels
+lab184 = {'Land','sand','grass'};
+labels{184} = lab184;
+save labels labels
+
+load labels
+lab185 = {'Land','sand','grass'};
+labels{185} = lab185;
+save labels labels
+
+load labels
+lab186 = {'Land','sand','grass'};
+labels{186} = lab186;
+save labels labels
+
+load labels
+lab187 = {'Land','sand','grass'};
+labels{187} = lab187;
+save labels labels
+
+load labels
+lab188 = {'Land','sand','grass'};
+labels{188} = lab188;
+save labels labels
+
+load labels
+lab189 = {'Land','sand','grass'};
+labels{189} = lab189;
+save labels labels
+
+load labels
+lab190 = {'Land','sand','grass'};
+labels{190} = lab190;
+save labels labels
+
+load labels
+lab191 = {'Land','sand','grass'};
+labels{191} = lab191;
+save labels labels
+
+load labels
+lab192 = {'Land','sand','grass'};
+labels{192} = lab192;
+save labels labels
+
+load labels
+lab193 = {'Land','sand','grass'};
+labels{193} = lab193;
+save labels labels
+
+load labels
+lab194 = {'Land','sand','grass'};
+labels{194} = lab194;
+save labels labels
+
+load labels
+lab195 = {'Land','sand','grass'};
+labels{195} = lab195;
+save labels labels
+
+load labels
+lab196 = {'Land','sand','grass'};
+labels{196} = lab196;
+save labels labels
+
+load labels
+lab197 = {'Land','sand','grass'};
+labels{197} = lab197;
+save labels labels
+
+load labels
+lab198 = {'Land','sand','grass'};
+labels{198} = lab198;
+save labels labels
+
+load labels
+lab199 = {'Land','sand','grass'};
+labels{199} = lab199;
+save labels labels
+
+load labels
+lab200 = {'Land','sand','grass'};
+labels{200} = lab200;
+save labels labels
+
+load labels
+lab201 = {'Land','sand','grass'};
+labels{201} = lab201;
+save labels labels
+
+load labels
+lab202 = {'Land','sand','grass'};
+labels{202} = lab202;
+save labels labels
+
+load labels
+lab203 = {'Land','sand','grass'};
+labels{203} = lab203;
+save labels labels
+
+load labels
+lab204 = {'Land','sand','grass'};
+labels{204} = lab204;
+save labels labels
+
+load labels
+lab205 = {'Land','sand','grass'};
+labels{205} = lab205;
+save labels labels
+
+load labels
+lab206 = {'Land','sand','grass'};
+labels{206} = lab206;
+save labels labels
+
+load labels
+lab207 = {'Land','sand','grass'};
+labels{207} = lab207;
+save labels labels
+
+load labels
+lab208 = {'Land','sand','grass'};
+labels{208} = lab208;
+save labels labels
+
+load labels
+lab209 = {'Land','sand','grass'};
+labels{209} = lab209;
+save labels labels
+
+load labels
+lab210 = {'Land','sand','grass'};
+labels{210} = lab210;
+save labels labels
+
+load labels
+lab211 = {'Land','sand','grass'};
+labels{211} = lab211;
+save labels labels
+
+load labels
+lab212 = {'Land','sand','grass'};
+labels{212} = lab212;
+save labels labels
+
+load labels
+lab213 = {'Land','sand','grass'};
+labels{213} = lab213;
+save labels labels
+
+load labels
+lab214 = {'Land','sand','grass'};
+labels{214} = lab214;
+save labels labels
+
+load labels
+lab215 = {'Land','sand','grass'};
+labels{215} = lab215;
+save labels labels
+
+load labels
+lab216 = {'Land','sand','grass'};
+labels{216} = lab216;
+save labels labels
+
+load labels
+lab217 = {'Land','sand','grass'};
+labels{217} = lab217;
+save labels labels
+
+load labels
+lab218 = {'Land','sand','grass'};
+labels{218} = lab218;
+save labels labels
+
+load labels
+lab219 = {'Land','sand','grass'};
+labels{219} = lab219;
+save labels labels
+
+load labels
+lab220 = {'Land','sand','grass'};
+labels{220} = lab220;
+save labels labels
+
+load labels
+lab221 = {'Land','sand','grass'};
+labels{221} = lab221;
+save labels labels
+
+load labels
+lab222 = {'Land','sand','grass'};
+labels{222} = lab222;
+save labels labels
+
+load labels
+lab223 = {'Land','sand','grass'};
+labels{223} = lab223;
+save labels labels
+
+load labels
+lab224 = {'Land','sand','grass'};
+labels{224} = lab224;
+save labels labels
+
+load labels
+lab225 = {'Land','sand','grass'};
+labels{225} = lab225;
+save labels labels
+
+load labels
+lab226 = {'Land','sand','grass'};
+labels{226} = lab226;
+save labels labels
+
+load labels
+lab227 = {'Land','sand','grass'};
+labels{227} = lab227;
+save labels labels
+
+load labels
+lab228 = {'Land','sand','grass'};
+labels{228} = lab228;
+save labels labels
+
+load labels
+lab229 = {'Land','sand','grass'};
+labels{229} = lab229;
+save labels labels
+
+load labels
+lab230 = {'Land','sand','grass'};
+labels{230} = lab230;
+save labels labels
+
+load labels
+lab231 = {'Land','sand','grass'};
+labels{231} = lab231;
+save labels labels
+
+load labels
+lab232 = {'Land','sand','grass'};
+labels{232} = lab232;
+save labels labels
+
+load labels
+lab233 = {'Land','sand','water'};
+labels{233} = lab233;
+save labels labels
+
+
+load labels
+lab234 = {'Land','sand','water','grass','path','buildings'};
+labels{234} = lab234;
+save labels labels
+
+load labels
+lab235 = {'Land','sand','water','grass','path','buildings'};
+labels{235} = lab235;
+save labels labels
+
+load labels
+lab236 = {'Land','sand','water','grass'};
+labels{236} = lab236;
+save labels labels
+
+load labels
+lab237 = {'Land','sand','water','grass','path','buildings'};
+labels{237} = lab237;
+save labels labels
+
+load labels
+lab238 = {'Land','sand','grass','path','buildings'};
+labels{238} = lab238;
+save labels labels
+
+load labels
+lab239 = {'Land','sand','grass','path','buildings'};
+labels{239} = lab239;
+save labels labels
+
+load labels
+lab240 = {'Land','sand','grass','path','buildings'};
+labels{240} = lab240;
+save labels labels
+
+load labels
+lab241 = {'Land','sand','grass','path','buildings'};
+labels{241} = lab241;
+save labels labels
+
+load labels
+lab242 = {'Land','sand','water','grass','path','buildings'};
+labels{242} = lab242;
+save labels labels
+
+load labels
+lab243 = {'Land','sand','water','grass','path','buildings'};
+labels{243} = lab243;
+save labels labels
+
+load labels
+lab244 = {'Land','sand','water','grass','path','buildings'};
+labels{244} = lab244;
+save labels labels
+
+load labels
+lab245 = {'Land','sand','grass','path','buildings'};
+labels{245} = lab245;
+save labels labels
+
+load labels
+lab246 = {'Land','sand','water','grass','path','buildings'};
+labels{246} = lab246;
+save labels labels
+
+
+load labels
+lab264 = {'Land','sand','water','grass','path','buildings'};
+labels{264} = lab264;
+save labels labels
+
+load labels
+lab265 = {'Land','sand','water','grass'};
+labels{265} = lab265;
+save labels labels
+
+load labels
+lab266 = {'Land','sand','water','grass','path','buildings'};
+labels{266} = lab266;
+save labels labels
+
+load labels
+lab267 = {'Land','sand','water','grass'};
+labels{267} = lab267;
+save labels labels
+
+load labels
+lab268 = {'Land','sand','grass','path','buildings'};
+labels{268} = lab268;
+save labels labels
+
+load labels
+lab269 = {'Land','sand','grass','path','buildings'};
+labels{269} = lab269;
+save labels labels
+
+load labels
+lab268 = {'Land','sand','grass','path','buildings'};
+labels{268} = lab268;
+save labels labels
+
+load labels
+lab270 = {'Land','sand','grass','path','buildings'};
+labels{270} = lab270;
+save labels labels
+
+load labels
+lab271 = {'Land','sand','grass','path','buildings'};
+labels{271} = lab271;
+save labels labels
+
+load labels
+lab272 = {'Land','sand','grass','path','buildings'};
+labels{272} = lab272;
+save labels labels
+
+load labels
+lab273 = {'Land','sand','grass','path','buildings'};
+labels{273} = lab273;
+save labels labels
+
+load labels
+lab274 = {'Land','sand','grass','path','buildings'};
+labels{274} = lab274;
+save labels labels
+
+load labels
+lab275 = {'Land','sand','grass','path','buildings'};
+labels{275} = lab275;
+save labels labels
+
+load labels
+lab276 = {'Land','sand','grass','path','buildings'};
+labels{276} = lab276;
+save labels labels
+
+load labels
+lab277 = {'Land','sand','grass','path','buildings'};
+labels{277} = lab277;
+save labels labels
+
+load labels
+lab278 = {'Land','sand','grass','path','buildings'};
+labels{278} = lab278;
+save labels labels
+
+load labels
+lab279 = {'Land','sand','grass','water','path','buildings'};
+labels{279} = lab279;
+save labels labels
+
+load labels
+lab280 = {'Land','sand','grass','path','buildings'};
+labels{280} = lab280;
+save labels labels
+
+load labels
+lab281 = {'Land','sand','grass','path','buildings'};
+labels{281} = lab281;
+save labels labels
+
+load labels
+lab282 = {'Land','sand','grass','path','buildings'};
+labels{282} = lab282;
+save labels labels
+
+load labels
+lab283 = {'Land','sand','grass','path','buildings'};
+labels{283} = lab283;
+save labels labels
+
+load labels
+lab284 = {'Land','sand','grass','water','path','buildings'};
+labels{284} = lab284;
+save labels labels
+
+load labels
+lab285 = {'Land','sand','grass','water','path','buildings'};
+labels{285} = lab285;
+save labels labels
+
+load labels
+lab286 = {'Land','sand','grass','water','path','buildings'};
+labels{286} = lab286;
+save labels labels
+
+load labels
+lab287 = {'Land','sand','grass','path','buildings'};
+labels{287} = lab287;
+save labels labels
+
+load labels
+lab288 = {'Land','sand','grass','path','buildings'};
+labels{288} = lab288;
+save labels labels
+
+load labels
+lab289 = {'Land','sand','grass','path','buildings'};
+labels{289} = lab289;
+save labels labels
+
+load labels
+lab290 = {'Land','sand','grass','path','buildings'};
+labels{290} = lab290;
+save labels labels
+
+load labels
+lab291 = {'Land','sand','grass','path','buildings'};
+labels{291} = lab291;
+save labels labels
+
+load labels
+lab292 = {'Land','sand','grass','path','buildings'};
+labels{292} = lab292;
+save labels labels
+
+load labels
+lab293 = {'Land','sand','grass','water','path','buildings'};
+labels{293} = lab293;
+save labels labels
+
+load labels
+lab294 = {'Land','sand','grass','path','buildings'};
+labels{294} = lab294;
+save labels labels
+
+load labels
+lab295 = {'Land','sand','grass','path','buildings'};
+labels{295} = lab295;
+save labels labels
+
+load labels
+lab296 = {'Land','sand','grass','water','path','buildings'};
+labels{296} = lab296;
+save labels labels
+
+load labels
+lab297 = {'Land','sand','grass','water','path','buildings'};
+labels{297} = lab297;
+save labels labels
+
+load labels
+lab298 = {'Land','sand','grass','path','buildings'};
+labels{298} = lab298;
+save labels labels
+
+load labels
+lab299 = {'Land','sand','grass','path','buildings'};
+labels{299} = lab299;
+save labels labels
+
+load labels
+lab300 = {'Land','sand','grass','path','buildings'};
+labels{300} = lab300;
+save labels labels
+
+load labels
+lab301 = {'Land','sand','grass','path','buildings'};
+labels{301} = lab301;
+save labels labels
+
+load labels
+lab302 = {'Land','sand','grass','path','buildings'};
+labels{302} = lab302;
+save labels labels
+
+load labels
+lab303= {'Land','sand','grass','path','buildings'};
+labels{303} = lab303;
+save labels labels
+
+load labels
+lab304 = {'Land','sand','grass','path','buildings'};
+labels{304} = lab304;
+save labels labels
+
+load labels
+lab305 = {'Land','sand','grass','path','buildings'};
+labels{305} = lab305;
+save labels labels
+
+load labels
+lab306 = {'Land','sand','grass','path','buildings'};
+labels{306} = lab306;
+save labels labels
+
+load labels
+lab307 = {'Land','sand','grass','path','buildings'};
+labels{307} = lab307;
+save labels labels
+
+load labels
+lab308 = {'Land','sand','grass','path','buildings'};
+labels{308} = lab308;
+save labels labels
+
+load labels
+lab309 = {'Land','sand','grass','path','buildings'};
+labels{309} = lab309;
+save labels labels
+
+load labels
+lab310 = {'Land','sand','grass','path','buildings'};
+labels{310} = lab310;
+save labels labels
+
+load labels
+lab311 = {'Land','sand','grass','path','buildings'};
+labels{311} = lab311;
+save labels labels
+
+load labels
+lab312 = {'Land','sand','grass','path','buildings'};
+labels{312} = lab312;
+save labels labels
+
+load labels
+lab313 = {'Land','sand','grass','path','buildings'};
+labels{313} = lab313;
+save labels labels
+
+load labels
+lab314 = {'Land','sand','grass','water','path','buildings'};
+labels{314} = lab314;
+save labels labels
+
+load labels
+lab315 = {'Land','sand','grass','water','path','buildings'};
+labels{315} = lab315;
+save labels labels
+
+load labels
+lab316 = {'Land','sand','grass','water','path','buildings'};
+labels{316} = lab316;
+save labels labels
+
+load labels
+lab317 = {'Land','sand','grass','water','path','buildings'};
+labels{317} = lab317;
+save labels labels
+
+load labels
+lab318 = {'Land','sand','grass','path','buildings'};
+labels{318} = lab318;
+save labels labels
+
+load labels
+lab319 = {'Land','sand','grass','path','buildings'};
+labels{319} = lab319;
+save labels labels
+
+load labels
+lab320 = {'Land','sand','grass','path','buildings'};
+labels{320} = lab320;
+save labels labels
+
+load labels
+lab321 = {'Land','sand','grass','path','buildings'};
+labels{321} = lab321;
+save labels labels
+
+load labels
+lab322 = {'Land','sand','grass','path','buildings'};
+labels{322} = lab322;
+save labels labels
+
+load labels
+lab323 = {'Land','sand','grass','path','buildings'};
+labels{323} = lab323;
+save labels labels
+
+load labels
+lab324 = {'Land','sand','grass','path','buildings'};
+labels{324} = lab324;
+save labels labels
+
+load labels
+lab325 = {'Land','sand','grass','path','buildings'};
+labels{325} = lab325;
+save labels labels
+
+load labels
+lab326 = {'Land','sand','grass','path','buildings'};
+labels{326} = lab326;
+save labels labels
+
+load labels
+lab327 = {'Land','sand','grass','path','buildings'};
+labels{327} = lab327;
+save labels labels
+
+load labels
+lab328 = {'Land','sand','grass','path','buildings'};
+labels{328} = lab328;
+save labels labels
+
+load labels
+lab329 = {'Land','sand','grass','path','buildings'};
+labels{329} = lab329;
+save labels labels
+
+load labels
+lab330 = {'Land','sand','grass','water','path','buildings'};
+labels{330} = lab330;
+save labels labels
+
+load labels
+lab331 = {'Land','sand','grass','water','path','buildings'};
+labels{331} = lab331;
+save labels labels
+
+load labels
+lab332 = {'Land','sand','grass','water','path','buildings'};
+labels{332} = lab332;
+save labels labels
+
+load labels
+lab333 = {'Land','sand','grass','water','path','buildings'};
+labels{333} = lab333;
+save labels labels
+
+load labels
+lab334 = {'Land','sand','grass','water','path','buildings'};
+labels{334} = lab334;
+save labels labels
+
+load labels
+lab335 = {'Land','sand','grass','water','path','buildings'};
+labels{335} = lab335;
+save labels labels
+
+load labels
+lab336 = {'Land','sand','grass','water','path','buildings'};
+labels{336} = lab336;
+save labels labels
+
+load labels
+lab337 = {'Land','sand','grass','path','buildings'};
+labels{337} = lab337;
+save labels labels
+
+load labels
+lab338 = {'Land','sand','grass','path','buildings'};
+labels{338} = lab338;
+save labels labels
+
+load labels
+lab339 = {'Land','sand','grass','path','buildings'};
+labels{339} = lab339;
+save labels labels
+
+load labels
+lab340 = {'Land','sand','grass','path','buildings'};
+labels{340} = lab340;
+save labels labels
+
+load labels
+lab341 = {'Land','sand','grass','path','buildings'};
+labels{341} = lab341;
+save labels labels
+
+load labels
+lab342 = {'Land','sand','grass','path','buildings'};
+labels{342} = lab342;
+save labels labels
+
+load labels
+lab343 = {'Land','sand','grass','path','buildings'};
+labels{343} = lab343;
+save labels labels
+
+load labels
+lab344 = {'Land','sand','grass','path','buildings'};
+labels{344} = lab344;
+save labels labels
+
+load labels
+lab345 = {'Land','sand','grass','path','buildings'};
+labels{345} = lab345;
+save labels labels
+
+load labels
+lab346 = {'Land','sand','grass','path','buildings'};
+labels{346} = lab346;
+save labels labels
+
+load labels
+lab347 = {'Land','sand','grass','water','path','buildings'};
+labels{347} = lab347;
+save labels labels
+
+load labels
+lab348 = {'Land','sand','grass','water','path','buildings'};
+labels{348} = lab348;
+save labels labels
+
+load labels
+lab349 = {'Land','sand','grass','water','path','buildings'};
+labels{349} = lab349;
+save labels labels
+
+load labels
+lab350 = {'Land','sand','grass','water','path','buildings'};
+labels{350} = lab350;
+save labels labels
+
+load labels
+lab351 = {'Land','sand','grass','water','path','buildings'};
+labels{351} = lab351;
+save labels labels
+
+load labels
+lab352 = {'Land','sand','grass','water','path','buildings'};
+labels{352} = lab352;
+save labels labels
+
+load labels
+lab353 = {'Land','sand','grass','water','path','buildings'};
+labels{353} = lab353;
+save labels labels
+
+load labels
+lab354 = {'Land','sand','grass','water','path','buildings'};
+labels{354} = lab354;
+save labels labels
+
+load labels
+lab356 = {'Land','sand','grass','water','path','buildings'};
+labels{356} = lab356;
+save labels labels
+
+load labels
+lab357 = {'Land','sand','grass','water','path','buildings'};
+labels{357} = lab357;
+save labels labels
+
+load labels
+lab358 = {'Land','sand','grass','water','path','buildings'};
+labels{358} = lab358;
+save labels labels
+
+load labels
+lab359 = {'Land','sand','grass','water','path','buildings'};
+labels{359} = lab359;
+save labels labels
+
+load labels
+lab360 = {'Land','sand','grass','water','path','buildings'};
+labels{360} = lab360;
+save labels labels
+
+load labels
+lab361 = {'Land','sand','grass','water','path','buildings'};
+labels{361} = lab361;
+save labels labels
+
+load labels
+lab362 = {'Land','sand','grass','water','path','buildings'};
+labels{362} = lab362;
+save labels labels
+
+load labels
+lab363 = {'Land','sand','grass','water','path','buildings'};
+labels{363} = lab363;
+save labels labels
+
+load labels
+lab364 = {'Land','sand','grass','water','path','buildings'};
+labels{364} = lab364;
+save labels labels
+
+load labels
+lab365 = {'Land','sand','grass','water','path','buildings'};
+labels{365} = lab365;
+save labels labels
+
+load labels
+lab366 = {'Land','sand','grass','water','path','buildings'};
+labels{366} = lab366;
+save labels labels
+
+load labels
+lab367 = {'Land','sand','grass','water','path','buildings'};
+labels{367} = lab367;
+save labels labels
+
+load labels
+lab368 = {'Land','sand','grass','water','path','buildings'};
+labels{368} = lab368;
+save labels labels
+
+load labels
+lab369 = {'Land','sand','grass','path','buildings'};
+labels{369} = lab369;
+save labels labels
+
+load labels
+lab370 = {'Land','sand','grass','path','buildings'};
+labels{370} = lab370;
+save labels labels
+
+load labels
+lab371 = {'Land','sand','grass','water','path','buildings'};
+labels{371} = lab371;
+save labels labels
+
+load labels
+lab372 = {'Land','sand','grass','water','path','buildings'};
+labels{372} = lab372;
+save labels labels
+
+load labels
+lab373 = {'Land','sand','grass','water','path','buildings'};
+labels{373} = lab373;
+save labels labels
+
+load labels
+lab374 = {'Land','sand','grass','path','buildings'};
+labels{374} = lab374;
+save labels labels
+
+load labels
+lab375 = {'Land','sand','grass','path','buildings'};
+labels{375} = lab375;
+save labels labels
+
+load labels
+lab376 = {'Land','sand','grass','water','path','buildings'};
+labels{376} = lab376;
+save labels labels
+
+load labels
+lab377 = {'Land','sand','grass','path','buildings'};
+labels{377} = lab377;
+save labels labels
+
+load labels
+lab378 = {'Land','sand','grass','path','buildings'};
+labels{378} = lab378;
+save labels labels
+
+load labels
+lab379 = {'Land','sand','grass','path','buildings'};
+labels{379} = lab379;
+save labels labels
+
+load labels
+lab380 = {'Land','sand','grass','path','buildings'};
+labels{380} = lab380;
+save labels labels
+
+load labels
+lab381 = {'Land','sand','grass','water','path','buildings'};
+labels{381} = lab381;
+save labels labels
+
+load labels
+lab382 = {'Land','sand','grass','water','path','buildings'};
+labels{382} = lab382;
+save labels labels
+
+load labels
+lab383 = {'Land','sand','water','grass','path','buildings'};
+labels{383} = lab383;
+save labels labels
+
+load labels
+lab384 = {'Land','sand','grass','water','path','buildings'};
+labels{384} = lab384;
+save labels labels
+
+load labels
+lab385 = {'Land','sand','grass','water','path','buildings'};
+labels{385} = lab385;
+save labels labels
+
+load labels
+lab386 = {'Land','sand','water','grass','path','buildings'};
+labels{386} = lab386;
+save labels labels
+
+load labels
+lab387 = {'Land','sand','water','grass','path','buildings'};
+labels{387} = lab387;
+save labels labels
+
+load labels
+lab388 = {'Land','sand','water','grass','path','buildings'};
+labels{388} = lab388;
+save labels labels
+
+load labels
+lab389 = {'Land','sand','grass','path','buildings'};
+labels{389} = lab389;
+save labels labels
+
+load labels
+lab390 = {'Land','sand','grass','path','buildings'};
+labels{390} = lab390;
+save labels labels
+
+load labels
+lab391 = {'Land','sand','grass','water','path','buildings'};
+labels{391} = lab391;
+save labels labels
+
+load labels
+lab392 = {'Land','sand','water','grass','path','buildings'};
+labels{392} = lab392;
+save labels labels
+
+load labels
+lab393 = {'Land','sand','grass','path','buildings'};
+labels{393} = lab393;
+save labels labels
+
+load labels
+lab394 = {'Land','sand','water','grass','path','buildings'};
+labels{394} = lab394;
+save labels labels
+
+load labels
+lab395 = {'Land','sand','water','grass','path','buildings'};
+labels{395} = lab395;
+save labels labels
+
+load labels
+lab396 = {'Land','sand','water','grass','path','buildings'};
+labels{396} = lab396;
+save labels labels
+
+load labels
+lab397 = {'Land','sand','grass','water','path','buildings'};
+labels{397} = lab397;
+save labels labels
+
+load labels
+lab398 = {'Land','sand','water','grass','path','buildings'};
+labels{398} = lab398;
+save labels labels
+
+load labels
+lab399 = {'Land','sand','water','grass','path','buildings'};
+labels{399} = lab399;
+save labels labels
+
+load labels
+lab400 = {'Land','sand','grass','water','path','buildings'};
+labels{400} = lab400;
+save labels labels
+
+
+
+% Note: To create the next label 
+% For Eg: 
+% load labels
+% lab14 = {'Land Type 1','Land Type 2','Land Type 3'};
+% labels{14} = lab14;
+% save labels labels
+
+% -------------- %
+
+% Similar to this, create the next images one by one
+
+load labels
+labe1 = {'Hard Coral- Encrusting'};
+labels{1} = labe1;
+save labels labels
+
+load labels
+labe1 = {'Hard Coral- Mushroom'};
+labels{2} = labe1;
+save labels labels
+
+load labels
+labe1 = {'Hard Coral- Encrusting','Hard Coral- Mushroom','Hard Coral-Braching'};
+labels{3} = labe1;
+save labels labels
+
+load labels
+labe1 = {'Hard Coral- Encrusting','Hard Coral- Mushroom','Hard Coral-Braching'};
+labels{4} = labe1;
+save labels labels
+
+load labels
+labe1 = {'Hard Coral- Table'};
+labels{5} = labe1;
+save labels labels
+
+load labels
+labe1 = {'Hard Coral- Encrusting','Hard Coral-Braching','Hard Coral- Table'};
+labels{6} = labe1;
+save labels labels
+
+load labels
+labe1 = {'Hard Coral- Encrusting','Hard Coral-Braching','Hard Coral- Table','Fire Coral'};
+labels{7} = labe1;
+save labels labels
+
+load labels
+labe1 = {'Hard Coral- Encrusting','Hard Coral-Braching','Hard Coral- Table','Fire Coral'};
+labels{8} = labe1;
+save labels labels
+
+load labels
+labe1 = {'Hard Coral- Encrusting','Hard Coral- Mushroom','Hard Coral-Braching','Fire Coral'};
+labels{9} = labe1;
+save labels labels
+
+load labels
+labe1 = {'Hard Coral- Encrusting','Hard Coral- Mushroom','Hard Coral-Braching'};
+labels{10} = labe1;
+save labels labels
+
+load labels
+labe1 = {'Hard Coral- Mushroom','Hard Coral-Braching','Sponge barrel'};
+labels{11} = labe1;
+save labels labels
+
+
+
+load labels
+labe1 = {'Hard Coral- Encrusting','Hard Coral- Mushroom','Hard Coral-Braching','Hard Coral- Table','gorgonian','Hard Coral-Submassive'};
+labels{12} = labe1;
+save labels labels
+
+load labels
+labe1 = {'Hard Coral- Mushroom','Hard Coral-Braching','Sponge barrel','gorgonian','Hard Coral-Submassive','Hard Coral- Foliose'};
+labels{13} = labe1;
+save labels labels
+
+load labels
+labe1 = {'Hard Coral- Encrusting','Hard Coral- Mushroom','Hard Coral-Braching','Soft coral'};
+labels{14} = labe1;
+save labels labels
+
+load labels
+labe1 = {'Hard Coral- Encrusting','Hard Coral- Mushroom','Hard Coral-Braching','Fire Coral','gorgonian','Hard Coral-Submassive'};
+labels{15} = labe1;
+save labels labels
+
+load labels
+labe1 = {'Hard Coral- Encrusting','Hard Coral- Mushroom','Hard Coral-Braching','Fire Coral','gorgonian','Hard Coral-Submassive'};
+labels{16} = labe1;
+save labels labels
+
+load labels
+labe1 = {'Hard Coral- Encrusting','Hard Coral- Mushroom','Hard Coral-Braching','Hard Coral-Submassive'};
+labels{17} = labe1;
+save labels labels
+
+load labels
+labe1 = {'Hard Coral- Encrusting','Fire Coral','Hard Coral- Boulder'};
+labels{18} = labe1;
+save labels labels
+
+load labels
+labe1 = {'Hard Coral- Encrusting','Fire Coral','Sponge barrel','Hard Coral- Boulder','boo'};
+labels{19} = labe1;
+save labels labels
+
+load labels
+labe1 = {'Hard Coral- Encrusting','Fire Coral','Sponge barrel','Hard Coral- Boulder','Algae','sponge'};
+labels{20} = labe1;
+save labels labels
